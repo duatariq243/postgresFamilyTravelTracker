@@ -3,4 +3,4 @@ open etrminal in visual studio and run
 1. npm i
 2. nodmeon index.js
 
-https://raw.githubusercontent.com/duatariq243/REPO-NAME/main/Screenshot 2025-12-01 230343.png
+![Screenshot](https://raw.githubusercontent.com/YOUR-USERNAME/postgresFamilyTravelTRacker/main/Screenshot%202025-12-01%20230343.png)
